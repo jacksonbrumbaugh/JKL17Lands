@@ -4,16 +4,24 @@ Returns the top common & uncommon cards from a card ratings page
 
 .NOTES
 Created by Jackson Brumbaugh on 2023.02.19
-Version Code: 2023Feb19-B
+Version Code: 2023Feb19-C
 #>
 function Get-TopUC {
-  [CmdletBinding()]
+  [CmdletBinding( DefaultParameterSetName = "GiveDate" )]
   param (
     [Parameter(
-      Mandatory
+      Mandatory,
+      ParameterSetName = "GiveDate"
     )]
     [datetime]
     $Date,
+
+    [Parameter(
+      Mandatory,
+      ParameterSetName = "GetToday"
+    )]
+    [switch]
+    $Today,
 
     [switch]
     $Alphabetical,
@@ -24,7 +32,13 @@ function Get-TopUC {
   ) # End block:param
 
   process {
-    $CardRatingArray = Convert-RatingPage $Date
+    $PageDate = if ( $Today ) {
+      Get-Date
+    } else {
+      $Date
+    }
+
+    $CardRatingArray = Convert-RatingPage $PageDate
 
     $FoundColorHash = @{
       W = $false
