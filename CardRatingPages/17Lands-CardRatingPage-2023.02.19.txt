@@ -1,0 +1,871 @@
+17Lands
+Getting Started
+Account 
+Analytics 
+Tools 
+Articles 
+Support 
+Interested in supporting 17Lands? We have a Patreon page at patreon.com/17lands!
+
+There has been a recent update to some metric definitions. See more detail on our Metrics Definitions page!
+
+Card Performance
+This table shows information about each card in a given format. Sort by ALSA to get a sense of the community's pick order. Sort by ATA to see where others usually pick the cards.
+
+The deck color selection filters for performance numbers of cards only when played in that maindeck color combination. This helps understand, for example, which red cards perform better when paired with green than with blue. Splashes are included, so selecting RG also includes RGu and RGb decks, for example.
+
+Metric definitions are here.
+
+
+ONE
+
+PremierDraft
+
+All Users
+
+Color...
+
+All Decks
+
+Rarity...
+10/19/2022
+Navigate forward to interact with the calendar and select a date. Press the question mark key to get the keyboard shortcuts for changing dates.
+02/19/2023
+Navigate backward to interact with the calendar and select a date. Press the question mark key to get the keyboard shortcuts for changing dates.
+Columns:
+
+
+
+
+
+
+
+Name	Color	Rarity	# GIH
+Migloz, Maze Crusher
+
+RG	R	6202	
+67.4%
+Nissa, Ascended Animist
+
+G	M	2723	
+66.8%
+Sheoldred, the Apocalypse
+
+B	M	1408	
+66.2%
+The Eternal Wanderer
+
+W	R	5843	
+65.1%
+Archfiend of the Dross
+
+B	R	5084	
+63.7%
+White Sun's Twilight
+
+W	R	5483	
+63.7%
+Bladehold War-Whip
+
+WR	U	16590	
+63.5%
+Lukka, Bound to Ruin
+
+RG	M	2827	
+63.4%
+Annex Sentry
+
+W	U	18410	
+62.8%
+Vorinclex, Monstrous Raider
+
+G	M	1581	
+62.7%
+Cinderslash Ravager
+
+RG	U	20272	
+62.7%
+Elesh Norn, Mother of Machines
+
+W	M	2669	
+62.6%
+Thrun, Breaker of Silence
+
+G	R	5573	
+62.3%
+Urabrask's Forge
+
+R	R	6824	
+61.9%
+Dragonwing Glider
+
+R	R	6846	
+61.7%
+Atraxa, Grand Unifier
+
+WUBG	M	1089	
+61.3%
+Blue Sun's Twilight
+
+U	R	5738	60.8%
+Koth, Fire of Resistance
+
+R	R	5803	60.7%
+Evolving Adaptive
+
+G	U	20216	60.6%
+Rebel Salvo
+
+R	U	23498	60.3%
+Ossification
+
+W	U	17767	59.8%
+Glissa Sunslayer
+
+BG	R	4704	59.7%
+Contagious Vorrac
+
+G	C	56957	59.7%
+Chimney Rabble
+
+R	C	47867	59.6%
+Bloated Contaminator
+
+G	R	5702	59.6%
+Malcator, Purity Overseer
+
+WU	R	3397	59.6%
+Cankerbloom
+
+G	U	18322	59.5%
+Tyrranax Rex
+
+G	M	2220	59.5%
+Sword of Forge and Frontier
+
+M	3164	59.5%
+Urabrask, Heretic Praetor
+
+R	M	1681	59.4%
+Slaughter Singer
+
+WG	U	11037	59.4%
+Evolved Spinoderm
+
+G	R	5821	59.3%
+Hexgold Hoverwings
+
+W	U	17422	59.2%
+Jace, the Perfected Mind
+
+U	M	2418	59.1%
+Solphim, Mayhem Dominus
+
+R	M	2516	58.9%
+Armored Scrapgorger
+
+G	U	19471	58.9%
+Crawling Chorus
+
+W	C	41151	58.7%
+Basilica Shepherd
+
+W	C	36697	58.7%
+Drown in Ichor
+
+B	U	14140	58.7%
+Zopandrel, Hunger Dominus
+
+G	M	2193	58.6%
+Vraska, Betrayal's Sting
+
+B	M	2652	58.6%
+Bladed Ambassador
+
+W	U	17198	58.6%
+Phyrexian Vindicator
+
+W	M	1665	58.6%
+Hexgold Slash
+
+R	C	62988	58.5%
+Swooping Lookout
+
+W	U	10590	58.3%
+Kaito, Dancing Shadow
+
+UB	R	4487	58.1%
+Hexgold Halberd
+
+R	U	22766	58.1%
+Barbed Batterfist
+
+R	C	60739	58.1%
+Planar Disruption
+
+W	C	47120	58.0%
+Kemba, Kha Enduring
+
+W	R	5012	58.0%
+Bilious Skulldweller
+
+B	U	13329	58.0%
+Furnace Punisher
+
+R	U	18185	57.9%
+Skrelv, Defector Mite
+
+W	R	4761	57.9%
+Jor Kadeen, First Goldwarden
+
+WR	R	3933	57.8%
+Skrelv's Hive
+
+W	R	4979	57.8%
+Exuberant Fuseling
+
+R	U	18224	57.7%
+Furnace Strider
+
+R	C	46244	57.6%
+Indoctrination Attendant
+
+W	C	35263	57.6%
+Tyvar's Stand
+
+G	U	16050	57.5%
+Incubation Sac
+
+G	U	18582	57.5%
+Hazardous Blast
+
+R	C	22362	57.5%
+Anoint with Affliction
+
+B	C	40245	57.4%
+Flensing Raptor
+
+W	C	39019	57.4%
+Unctus's Retrofitter
+
+U	U	13868	57.4%
+Infectious Bite
+
+G	U	15839	57.4%
+Axiom Engraver
+
+R	C	53545	57.4%
+Lattice-Blade Mantis
+
+G	C	44036	57.3%
+Atraxa's Skitterfang
+
+U	21417	57.2%
+Sylvok Battle-Chair
+
+G	U	12796	57.2%
+Cephalopod Sentry
+
+WU	U	11267	57.1%
+Charforger
+
+BR	U	7221	57.1%
+Jawbone Duelist
+
+W	U	16056	57.0%
+Unctus, Grand Metatect
+
+U	R	4697	57.0%
+Urabrask's Anointer
+
+R	U	17990	56.9%
+Resistance Skywarden
+
+R	U	13716	56.8%
+Vindictive Flamestoker
+
+R	R	6306	56.8%
+Blazing Crescendo
+
+R	C	36198	56.8%
+Porcelain Zealot
+
+W	U	12790	56.6%
+Ruthless Predation
+
+G	C	44362	56.6%
+Kaya, Intangible Slayer
+
+WB	R	3258	56.5%
+Volt Charge
+
+R	C	59557	56.5%
+Compleat Devotion
+
+W	C	31586	56.4%
+Melira, the Living Cure
+
+WG	R	2280	56.4%
+Venerated Rotpriest
+
+G	R	3524	56.4%
+Ambulatory Edifice
+
+B	U	13774	56.4%
+Vivisection Evangelist
+
+WB	U	11830	56.4%
+Mandible Justiciar
+
+W	C	36926	56.3%
+Capricious Hellraiser
+
+R	M	1913	56.3%
+Rustvine Cultivator
+
+G	C	40651	56.3%
+Ria Ivor, Bane of Bladehold
+
+WB	R	3119	56.1%
+Free from Flesh
+
+R	C	34557	56.1%
+Incisor Glider
+
+W	C	39416	56.0%
+Cacophony Scamp
+
+R	U	12154	56.0%
+Viral Spawning
+
+G	U	13792	55.9%
+Duelist of Deep Faith
+
+W	C	44162	55.8%
+Oil-Gorger Troll
+
+G	C	38929	55.7%
+Tekuthal, Inquiry Dominus
+
+U	M	2211	55.5%
+Mondrak, Glory Dominus
+
+W	M	2359	55.5%
+Stinging Hivemaster
+
+B	C	29615	55.1%
+Bladegraft Aspirant
+
+R	C	26113	55.1%
+Charge of the Mites
+
+W	C	32626	55.0%
+Plated Onslaught
+
+W	U	7178	55.0%
+Titanic Growth
+
+G	C	15494	55.0%
+Vulshok Splitter
+
+R	C	20233	55.0%
+Argentum Masticore
+
+R	6344	55.0%
+Kuldotha Cackler
+
+R	C	33851	54.9%
+Blightbelly Rat
+
+B	C	34487	54.9%
+Predation Steward
+
+G	C	40433	54.9%
+Sinew Dancer
+
+W	C	23340	54.8%
+Shrapnel Slinger
+
+R	C	28627	54.8%
+Oxidda Finisher
+
+R	U	4795	54.7%
+Tamiyo's Immobilizer
+
+U	U	16089	54.6%
+Copperline Gorge
+
+R	2898	54.6%
+Black Sun's Twilight
+
+B	R	4608	54.6%
+The Fair Basilica
+
+C	33799	54.6%
+Mirrex
+
+R	4116	54.6%
+Voidwing Hybrid
+
+UB	U	8781	54.6%
+The Monumental Facade
+
+R	2918	54.5%
+Venser, Corpse Puppet
+
+UB	R	2914	54.4%
+Zealot's Conviction
+
+W	C	17976	54.4%
+The Filigree Sylex
+
+R	3376	54.4%
+Gitaxian Raptor
+
+U	C	27043	54.4%
+Testament Bearer
+
+B	C	11499	54.4%
+The Autonomous Furnace
+
+C	39600	54.3%
+Mirran Bardiche
+
+W	C	13505	54.3%
+Chrome Prowler
+
+U	C	23228	54.2%
+Sawblade Scamp
+
+R	C	32461	54.2%
+Sheoldred's Edict
+
+B	U	6483	54.1%
+Tyrranax Atrocity
+
+G	C	19103	54.1%
+Ichorplate Golem
+
+U	16055	54.1%
+Jin-Gitaxias, Progress Tyrant
+
+U	M	1047	54.1%
+Necrogen Rotpriest
+
+BG	U	8742	54.0%
+Branchblight Stalker
+
+G	C	31996	54.0%
+Malcator's Watcher
+
+U	C	29471	53.9%
+Whisper of the Dross
+
+B	C	24542	53.8%
+Vraska's Fall
+
+B	C	13743	53.8%
+Surgical Skullbomb
+
+C	33171	53.8%
+Nimraiser Paladin
+
+B	U	11419	53.7%
+Vraan, Executioner Thane
+
+B	R	3490	53.7%
+Red Sun's Twilight
+
+R	R	951	53.6%
+Ribskiff
+
+U	9850	53.6%
+Myr Convert
+
+U	18948	53.6%
+Experimental Augury
+
+U	C	29235	53.5%
+The Seedcore
+
+R	4042	53.4%
+Goldwarden's Helm
+
+W	C	19064	53.4%
+Pestilent Syphoner
+
+B	C	30410	53.4%
+Mesmerizing Dose
+
+U	C	34436	53.3%
+Slobad, Iron Goblin
+
+R	R	1501	53.3%
+Cruel Grimnarch
+
+B	C	5359	53.3%
+Venomous Brutalizer
+
+G	U	11378	53.3%
+Terramorphic Expanse
+
+C	47069	53.3%
+Gleeful Demolition
+
+R	U	2381	53.2%
+Forgehammer Centurion
+
+R	C	16507	53.1%
+Dune Mover
+
+C	38579	53.1%
+Awaken the Sleeper
+
+R	U	1590	53.1%
+Razorverge Thicket
+
+R	1753	53.1%
+Sheoldred's Headcleaver
+
+B	C	18747	53.0%
+Eye of Malcator
+
+U	C	21538	53.0%
+The Hunter Maze
+
+C	35541	53.0%
+Annihilating Glare
+
+B	C	26249	53.0%
+Serum Snare
+
+U	U	12183	53.0%
+Skyscythe Engulfer
+
+G	C	8044	52.9%
+Kethek, Crucible Goliath
+
+BR	R	1020	52.8%
+Churning Reservoir
+
+R	U	14755	52.8%
+Trawler Drake
+
+U	U	14160	52.8%
+Offer Immortality
+
+B	C	12892	52.7%
+Against All Odds
+
+W	U	5522	52.7%
+Zenith Chronicler
+
+R	3012	52.7%
+Ovika, Enigma Goliath
+
+UR	R	3304	52.6%
+Resistance Reunited
+
+W	U	5096	52.6%
+Molten Rebuke
+
+R	C	12700	52.5%
+Mercurial Spelldancer
+
+U	R	4637	52.5%
+Vivisurgeon's Insight
+
+U	C	11922	52.5%
+The Dross Pits
+
+C	26514	52.4%
+Bring the Ending
+
+U	C	17353	52.3%
+Leonin Lightbringer
+
+W	C	13519	52.3%
+Apostle of Invasion
+
+W	U	5328	52.3%
+Bonepicker Skirge
+
+B	C	20648	52.2%
+Transplant Theorist
+
+U	U	6570	52.2%
+Serum-Core Chimera
+
+UR	U	11786	52.0%
+Distorted Curiosity
+
+U	U	7906	52.0%
+Maze's Mantle
+
+G	C	8456	51.9%
+Ezuri, Stalker of Spheres
+
+UG	R	2420	51.7%
+Gulping Scraptrap
+
+B	C	15825	51.6%
+Darkslick Shores
+
+R	1544	51.5%
+Feed the Infection
+
+B	U	3606	51.5%
+Scheming Aspirant
+
+B	U	7926	51.4%
+Quicksilver Fisher
+
+U	C	11571	51.4%
+The Surgical Bay
+
+C	26671	51.4%
+Seachrome Coast
+
+R	1585	51.4%
+Ichor Synthesizer
+
+U	C	27822	51.3%
+Tyvar, Jubilant Brawler
+
+BG	R	830	51.3%
+Tainted Observer
+
+UG	U	7226	51.3%
+Infectious Inquiry
+
+B	C	16515	51.3%
+Basilica Skullbomb
+
+C	21112	51.3%
+Infested Fleshcutter
+
+W	U	7414	51.3%
+Necrosquito
+
+B	U	7288	51.2%
+Orthodoxy Enforcer
+
+W	C	13455	51.2%
+Maze Skullbomb
+
+C	13842	51.2%
+Magmatic Sprinter
+
+R	U	9733	51.2%
+Blade of Shared Souls
+
+U	R	3733	51.1%
+Nahiri, the Unforgiving
+
+WR	M	1166	51.1%
+Necrogen Communion
+
+B	U	4777	51.0%
+Ichorspit Basilisk
+
+G	C	20951	51.0%
+Carnivorous Canopy
+
+G	C	8647	50.9%
+Adaptive Sporesinger
+
+G	C	16451	50.9%
+Vanish into Eternity
+
+W	C	10796	50.8%
+Chittering Skitterling
+
+B	U	9631	50.8%
+Plague Nurse
+
+G	C	15405	50.8%
+Ravenous Necrotitan
+
+B	U	7315	50.8%
+Prophetic Prism
+
+C	22676	50.8%
+All Will Be One
+
+R	M	1523	50.8%
+The Mycosynth Gardens
+
+R	3279	50.7%
+Glistener Seer
+
+U	C	16106	50.7%
+Blackcleave Cliffs
+
+R	1362	50.7%
+Furnace Skullbomb
+
+C	18308	50.5%
+Fleshless Gladiator
+
+B	C	13455	50.5%
+Copper Longlegs
+
+G	C	13759	50.4%
+Unnatural Restoration
+
+G	U	6493	50.4%
+Escaped Experiment
+
+U	C	15444	50.4%
+Vat Emergence
+
+B	U	3516	50.4%
+Thrummingbird
+
+U	U	10153	50.3%
+Paladin of Predation
+
+G	U	3773	50.3%
+Watchful Blisterzoa
+
+U	U	6332	50.3%
+Reject Imperfection
+
+U	U	3644	50.3%
+Meldweb Strider
+
+U	C	6559	50.2%
+Karumonix, the Rat King
+
+B	R	2722	50.1%
+Atmosphere Surgeon
+
+U	U	9596	50.1%
+Green Sun's Twilight
+
+G	R	2499	50.0%
+Prosthetic Injector
+
+U	9752	50.0%
+Cutthroat Centurion
+
+B	C	5371	49.9%
+Phyrexian Obliterator
+
+B	M	1262	49.8%
+Thrill of Possibility
+
+R	C	7637	49.6%
+Dross Skullbomb
+
+C	16209	49.2%
+Conduit of Worlds
+
+G	R	2469	49.1%
+Meldweb Curator
+
+U	C	6812	48.9%
+Drivnod, Carnage Dominus
+
+B	M	1511	48.8%
+Aspirant's Ascent
+
+U	C	5330	48.8%
+Prologue to Phyresis
+
+U	C	16286	48.6%
+Thirsting Roots
+
+G	C	14053	48.4%
+Norn's Wellspring
+
+W	R	1513	48.3%
+Nahiri's Sacrifice
+
+R	U	3180	48.0%
+Myr Kinsmith
+
+C	2285	
+47.4%
+Noxious Assault
+
+G	U	3090	
+47.3%
+Tablet of Compleation
+
+R	2152	
+47.3%
+Graaz, Unstoppable Juggernaut
+
+R	1182	
+47.0%
+Phyrexian Arena
+
+B	R	2725	
+46.9%
+Myr Custodian
+
+C	2758	
+46.8%
+Gitaxian Anatomist
+
+U	C	6076	
+46.8%
+Veil of Assimilation
+
+W	U	3960	
+46.7%
+Tamiyo's Logbook
+
+U	U	3013	
+46.1%
+Phyrexian Atlas
+
+C	6571	
+46.0%
+Expand the Sphere
+
+G	U	1451	
+44.2%
+Vat of Rebirth
+
+B	U	2040	
+43.1%
+Soulless Jailer
+
+R	279	
+42.3%
+Duress
+
+B	C	554	
+42.1%
+Staff of Compleation
+
+M	347	
+41.8%
+Font of Progress
+
+U	U	1140	
+41.8%
+Geth, Thane of Contracts
+
+B	R	776	
+40.5%
+Encroaching Mycosynth
+
+U	R	152	
+Ichormoon Gauntlet
+
+U	M	116	
+Mindsplice Apparatus
+
+U	R	172	
+Minor Misstep
+
+U	U	13	
+Mirran Safehouse
+
+R	5	
+Monument to Perfection
+
+R	155	
