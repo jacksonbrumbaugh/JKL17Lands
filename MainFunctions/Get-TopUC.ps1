@@ -56,6 +56,7 @@ function Get-TopUC {
         continue
       }
 
+      # Continuing processing thru cards until there the top Uncommon for each color is found
       foreach ( $ThisColor in ("W", "U", "B", "R", "G") ) {
         if ( $ThisCard.Color -eq $ThisColor -and -not $FoundColorHash.$ThisColor ) {
           $FoundColorHash.$ThisColor = $true
