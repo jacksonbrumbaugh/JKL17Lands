@@ -4,7 +4,7 @@ Converts a 17Lands card rating page into an array of PSCustomObject card ratings
 
 .NOTES
 Created by Jackson Brumbaugh on 2023.02.19
-Version Code: 2023Feb19-B
+Version Code: 2023Mar03-A
 #>
 function Convert-RatingPage {
   [CmdletBinding()]
@@ -109,7 +109,7 @@ function Convert-RatingPage {
 
       } # End block:foreach ThisLine
 
-      Write-Output $CardRatingArray
+      Write-Output ($CardRatingArray | Sort-Object -Descending WinRate)
 
     } # End block:foreach ThisPage
 
