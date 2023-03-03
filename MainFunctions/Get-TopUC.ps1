@@ -4,7 +4,7 @@ Returns the top common & uncommon cards from a card ratings page
 
 .NOTES
 Created by Jackson Brumbaugh on 2023.02.19
-Version Code: 2023Feb19-C
+Version Code: 2023Mar03-A
 #>
 function Get-TopUC {
   [CmdletBinding( DefaultParameterSetName = "GiveDate" )]
@@ -56,11 +56,13 @@ function Get-TopUC {
         continue
       }
 
-      # Continuing processing thru cards until there the top Uncommon for each color is found
-      foreach ( $ThisColor in ("W", "U", "B", "R", "G") ) {
-        if ( $ThisCard.Color -eq $ThisColor -and -not $FoundColorHash.$ThisColor ) {
-          $FoundColorHash.$ThisColor = $true
-          $FoundColorCount++
+      # Continuing processing thru cards until there the top Common for each color is found
+      if ( $ThisCard.Rarity -eq "C" ) {
+        foreach ( $ThisColor in ("W", "U", "B", "R", "G") ) {
+          if ( $ThisCard.Color -eq $ThisColor -and -not $FoundColorHash.$ThisColor ) {
+            $FoundColorHash.$ThisColor = $true
+            $FoundColorCount++
+          }
         }
       }
 
